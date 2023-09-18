@@ -1,0 +1,30 @@
+C:\Users\2022102020060\Downloads\heranca-main\heranca-main\tarefaHeranca\bin\Debug\net6.0\tarefaHeranca.exe
+C:\Users\2022102020060\Downloads\heranca-main\heranca-main\tarefaHeranca\bin\Debug\net6.0\tarefaHeranca.deps.json
+C:\Users\2022102020060\Downloads\heranca-main\heranca-main\tarefaHeranca\bin\Debug\net6.0\tarefaHeranca.runtimeconfig.json
+C:\Users\2022102020060\Downloads\heranca-main\heranca-main\tarefaHeranca\bin\Debug\net6.0\tarefaHeranca.dll
+C:\Users\2022102020060\Downloads\heranca-main\heranca-main\tarefaHeranca\bin\Debug\net6.0\tarefaHeranca.pdb
+C:\Users\2022102020060\Downloads\heranca-main\heranca-main\tarefaHeranca\obj\Debug\net6.0\tarefaHeranca.csproj.AssemblyReference.cache
+C:\Users\2022102020060\Downloads\heranca-main\heranca-main\tarefaHeranca\obj\Debug\net6.0\tarefaHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020060\Downloads\heranca-main\heranca-main\tarefaHeranca\obj\Debug\net6.0\tarefaHeranca.AssemblyInfoInputs.cache
+C:\Users\2022102020060\Downloads\heranca-main\heranca-main\tarefaHeranca\obj\Debug\net6.0\tarefaHeranca.AssemblyInfo.cs
+C:\Users\2022102020060\Downloads\heranca-main\heranca-main\tarefaHeranca\obj\Debug\net6.0\tarefaHeranca.csproj.CoreCompileInputs.cache
+C:\Users\2022102020060\Downloads\heranca-main\heranca-main\tarefaHeranca\obj\Debug\net6.0\tarefaHeranca.dll
+C:\Users\2022102020060\Downloads\heranca-main\heranca-main\tarefaHeranca\obj\Debug\net6.0\ref\tarefaHeranca.dll
+C:\Users\2022102020060\Downloads\heranca-main\heranca-main\tarefaHeranca\obj\Debug\net6.0\tarefaHeranca.pdb
+C:\Users\2022102020060\Downloads\heranca-main\heranca-main\tarefaHeranca\obj\Debug\net6.0\tarefaHeranca.genruntimeconfig.cache
+C:\Users\secun\OneDrive\Área de Trabalho\heranca-main\tarefaHeranca\obj\Debug\net6.0\tarefaHeranca.csproj.AssemblyReference.cache
+C:\Users\secun\OneDrive\Área de Trabalho\heranca-main\tarefaHeranca\obj\Debug\net6.0\tarefaHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\secun\OneDrive\Área de Trabalho\heranca-main\tarefaHeranca\obj\Debug\net6.0\tarefaHeranca.AssemblyInfoInputs.cache
+C:\Users\secun\OneDrive\Área de Trabalho\heranca-main\tarefaHeranca\obj\Debug\net6.0\tarefaHeranca.AssemblyInfo.cs
+C:\Users\secun\OneDrive\Área de Trabalho\heranca-main\tarefaHeranca\obj\Debug\net6.0\tarefaHeranca.csproj.CoreCompileInputs.cache
+C:\Users\secun\OneDrive\Área de Trabalho\heranca-main\tarefaHeranca\obj\Debug\net6.0\tarefaHeranca.dll
+C:\Users\secun\OneDrive\Área de Trabalho\heranca-main\tarefaHeranca\obj\Debug\net6.0\tarefaHeranca.pdb
+C:\Users\secun\OneDrive\Área de Trabalho\heranca-main\tarefaHeranca\bin\Debug\net6.0\tarefaHeranca.exe
+C:\Users\secun\OneDrive\Área de Trabalho\heranca-main\tarefaHeranca\bin\Debug\net6.0\tarefaHeranca.deps.json
+C:\Users\secun\OneDrive\Área de Trabalho\heranca-main\tarefaHeranca\bin\Debug\net6.0\tarefaHeranca.runtimeconfig.json
+C:\Users\secun\OneDrive\Área de Trabalho\heranca-main\tarefaHeranca\bin\Debug\net6.0\tarefaHeranca.dll
+C:\Users\secun\OneDrive\Área de Trabalho\heranca-main\tarefaHeranca\bin\Debug\net6.0\tarefaHeranca.pdb
+C:\Users\secun\OneDrive\Área de Trabalho\heranca-main\tarefaHeranca\obj\Debug\net6.0\refint\tarefaHeranca.dll
+C:\Users\secun\OneDrive\Área de Trabalho\heranca-main\tarefaHeranca\obj\Debug\net6.0\tarefaHeranca.genruntimeconfig.cache
+C:\Users\secun\OneDrive\Área de Trabalho\heranca-main\tarefaHeranca\obj\Debug\net6.0\ref\tarefaHeranca.dll
+C:\Users\2022102020060\Downloads\heranca-main\heranca-main\tarefaHeranca\obj\Debug\net6.0\refint\tarefaHeranca.dll
