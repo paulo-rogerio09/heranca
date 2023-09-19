@@ -7,11 +7,7 @@ public class Program
     static void Main(string[] args)
     {
 
-        ContaPai c = new ContaPai();
-        c.NumeroConta = 036;
-        c.Agencia = "75744";
-        c.Titular = "Paulo Rogerio";
-        c.Saldo = 10000;
+        
 
         
 
@@ -19,7 +15,7 @@ public class Program
         {
         inicio:;
             Console.WriteLine("escolha a opção: \n1- conta empresarial\n" +
-            "2- conta estudantil");
+            "2- conta estudantil\n3- Conta normal");
             int caso1 = Convert.ToInt32(Console.ReadLine());
 
             switch (caso1)
@@ -109,6 +105,42 @@ public class Program
                         goto inicio;
                     }
                     goto reset2;
+
+                    break;
+
+                    case 3:
+
+                    ContaPai c = new ContaPai();
+                    c.NumeroConta = 036;
+                    c.Agencia = "75744";
+                    c.Titular = "Paulo Rogerio";
+                    c.Saldo = 10000;
+
+                reset3:;
+                    Console.WriteLine("escolha a sua opção:\n 1- fazer saque\n" +
+                       "2- fazer deposito\n" +
+                       "3- sair");
+                    int escolha3 = Convert.ToInt32(Console.ReadLine());
+
+                    if (escolha3 == 1)
+                    {
+                        Console.WriteLine("Digite o valor para saque");
+                        double valorEs = Convert.ToDouble(Console.ReadLine());
+                        c.Sacar(valorEs);
+
+                    }
+
+                    else if (escolha3 == 2)
+                    {
+                        Console.WriteLine("digite o valor para fazer deposito");
+                        double valorDes = Convert.ToDouble(Console.ReadLine());
+                        c.Depositar(valorDes);
+                    }
+                    else if (escolha3 == 3)
+                    {
+                        goto inicio;
+                    }
+                    goto reset3;
 
                     break;
             }
