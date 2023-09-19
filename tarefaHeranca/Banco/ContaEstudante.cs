@@ -34,14 +34,14 @@ namespace tarefaHeranca.Banco
 
         public override void Sacar(double valor)
         {
-            double saldo = Saldo + LimiteChequeEspecial;
+            double saldo = valor + LimiteChequeEspecial;
             if (valor > saldo)
             {
                 Console.WriteLine("Saldo insuficiente");
             }
             else
             {
-                Saldo = Saldo - saldo;
+                Saldo = Saldo - valor;
                 Console.WriteLine("Saque realizado");
                 Console.WriteLine(Saldo);
             }

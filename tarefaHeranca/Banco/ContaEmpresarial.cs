@@ -49,13 +49,14 @@ namespace tarefaHeranca.Banco
                 else
                 {
 
-                    double valorFinal = Saldo - valor;
+                    //double valorFinal = Saldo - valor;
+                    Saldo = Saldo - valor;
                     Console.WriteLine($"Saque efetuado com sucesso" +
-                        $"\n foram sacados R${valor.ToString("F2")} para a sua conta. Valor total: R${valorFinal.ToString("F2")}.");
-                    Saldo = valorFinal;
+                        $"\n foram sacados R${valor.ToString("F2")} para a sua conta. Valor total: R${Saldo.ToString("F2")}.");
+                   /* Saldo = valorFinal;*/
 
-                    /* Saldo = Saldo - valor;
-                     Console.WriteLine("Saque realizado");*/
+                   /* Saldo = Saldo - valor;
+                     Console.WriteLine(Saldo);*/
                 }
             }
         }
